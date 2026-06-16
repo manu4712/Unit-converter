@@ -54,6 +54,6 @@ A simple and responsive web application that converts values between common metr
 
 ## Live Demo
 
-[View the Metric Unit Converter]([https://your-live-demo-url.com](https://unitconverter4712.netlify.app/))
+[View the Metric Unit Converter](https://unitconverter4712.netlify.app/)
 
 This project is ideal for beginners learning DOM manipulation, event handling, user input processing, and basic mathematical operations in JavaScript.
